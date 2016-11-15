@@ -8,7 +8,7 @@ Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply
 ```json
 {
     "require": {
-        "konstantin/omnipay-moneris": "1.0.x-dev"
+        "kbahchevanov/omnipay-moneris": "1.0.x-dev"
     }
 }
 ```
