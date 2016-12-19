@@ -13,7 +13,7 @@
     "homepage": "https://github.com/kbahchevanov/omnipay-moneris",
     "license": "MIT",
     "autoload": {
-        "psr-0": { "Omnipay\\Moneris\\" : "src/" }
+        "psr-4": { "Omnipay\\Moneris\\" : "src/" }
     },
     "require": {
         "omnipay/common": "~2.0"
