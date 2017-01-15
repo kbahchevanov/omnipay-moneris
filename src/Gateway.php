@@ -17,6 +17,7 @@ class Gateway extends AbstractGateway
         return array(
             'psStoreId' => '',
             'hppKey' => '',
+            'testMode' => false
         );
     }
 
